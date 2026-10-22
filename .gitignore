@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+build/
+dist/
+
+# Local datasets, archives, and machine-specific files
+/RSRCC/
+/RSRCC.zip
+.DS_Store
+
+# Local server credentials
+/server.md
